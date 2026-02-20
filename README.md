@@ -1,3 +1,23 @@
-# Portafolio profesional
+# Lalo - Software Engineer
 
-Juan Eduardo Rosas Ceron
+## About me
+-
+
+## Projects
+-
+
+### Project 1
+
+
+## Skills
+- Unity / C#
+- C++
+- Python
+- Github / Git
+- Flutter / Dart
+- HTML / CSS / Java Script
+- Android Studio / Kotlin
+
+## Contact
+Email
+LinkedIn
