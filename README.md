@@ -1,1 +1,3 @@
-# El3Du4Rd0.github.io
+# Portafolio profesional
+
+Juan Eduardo Rosas Ceron
